@@ -9,13 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "About"
+  url = "#about"
+  weight = 20
+
+[[main]]
+  name = "News"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Docs"
+  url = "https://docs.caterpillarproject.org/"
   weight = 30
 
 [[main]]
