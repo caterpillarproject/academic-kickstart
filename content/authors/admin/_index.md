@@ -76,8 +76,6 @@ user_groups:
 
 The Caterpillar Project a large suite of dark matter only cosmological simulations of 35 Milky Way-sized galaxies. At a resolution of ∼10<sup>4</sup> M<sub>⊙</sub>, it is one of the largest and highest resolution simulation suites of its kind in the world. These data are enabling us to statistically probe the formation history and evolution of all galaxies of similar size to the Milky Way, including the Milky Way itself. 
 
-The entire halo catalogs and merger trees of the project are now *public*. Should you wish to access the Caterpillar data, please see our very simple steps [here](https://docs.caterpillarproject.org).
-
-For a more technical overview, please see our flagship paper by [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255).
+The entire halo catalogs and merger trees of the project are now *public*. Should you wish to access the Caterpillar data, please see our very simple steps [here](https://docs.caterpillarproject.org). For a more technical overview, please see our flagship paper by [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255).
 
 More details coming soon.
