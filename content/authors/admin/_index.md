@@ -54,13 +54,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ProjCaterpillar
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/caterpillarproject
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -77,8 +74,10 @@ user_groups:
 - Visitors
 ---
 
-The Caterpillar project a state-of-the-art cosmological simulation suite consisting of dark matter halos of mass similar to that of our own Milky Way. 
+The Caterpillar Project a large suite of dark matter only cosmological simulations of 35 Milky Way-sized galaxies. At a resolution of ∼10<sup>4</sup> M<sub>⊙</sub>, it is one of the largest and highest resolution simulation suites of its kind in the world. These data are enabling us to statistically probe the formation history and evolution of all galaxies of similar size to the Milky Way, including the Milky Way itself. 
 
-The full Caterpillar catalogue consists of ~40 dark matter halos at a particle resolution of ∼10<sup>4</sup> M<sub>⊙</sub> making it one of the largest and highest resolution simulation suites of its kind in the world to date. These data are enabling us to statistically probe the formation history and evolution of all galaxies of similar size to the Milky Way, including the Milky Way itself!
+The entire halo catalogs and merger trees of the project are now *public*. Should you wish to access the Caterpillar data, please see our very simple steps [here](https://docs.caterpillarproject.org).
 
-All of following information is detailed in our flagship paper [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255).
+For a more technical overview, please see our flagship paper by [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255).
+
+More details coming soon.
