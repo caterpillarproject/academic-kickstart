@@ -39,9 +39,9 @@ hero_media = ""
 #  icon_pack = "fas"
 #  icon = "file"
   
-[cta_alt]
-  url = "https://docs.caterpillarproject.org"
-  label = "View Documentation"
+# [cta_alt]
+#   url = "https://docs.caterpillarproject.org"
+#   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
@@ -50,4 +50,4 @@ hero_media = ""
 
 **Understanding the building blocks of the Milky Way.**
 
-Start your analysis on the data today.
+Start [your analysis](https://docs.caterpillarproject.org/usage/access) today.
