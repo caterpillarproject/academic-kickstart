@@ -50,4 +50,4 @@ hero_media = ""
 
 **Understanding the building blocks of the Milky Way.**
 
-Start [your analysis](https://docs.caterpillarproject.org/usage/access) today.
+Start your analysis today.
