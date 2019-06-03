@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Caterpillar Project
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,42 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
+
 organizations:
-- name: Stanford University
-  url: ""
+- name: MIT
+  url: "https://space.mit.edu/"
+organizations:
+- name: MSU
+  url: "https://astro.natsci.msu.edu/"
+organizations:
+- name: Universidad de La Serena
+  url: "http://astro.userena.cl/doctorado/index_eng.html"
+organizations:
+- name: Carnegie Observatory
+  url: "https://obs.carnegiescience.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Understanding the building blocks of the Milky Way.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
+# 
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Caterpillar project a state-of-the-art cosmological simulation suite consisting of dark matter halos of mass similar to that of our own Milky Way. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The full Caterpillar catalogue consists of ~40 dark matter halos at a particle resolution of ∼10<sup>4</sup> M<sub>⊙</sub> making it one of the largest and highest resolution simulation suites of its kind in the world to date. These data are enabling us to statistically probe the formation history and evolution of all galaxies of similar size to the Milky Way, including the Milky Way itself!
+
+All of following information is detailed in our flagship paper [Griffen et al. (2015)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1509.01255).
