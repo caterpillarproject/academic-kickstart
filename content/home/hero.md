@@ -33,15 +33,15 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://docs.caterpillarproject.org"
-  label = " Documentation"
-  icon_pack = "fas"
-  icon = "file"
-  
-#[cta_alt]
+#[cta]
 #  url = "https://docs.caterpillarproject.org"
-#  label = "View Documentation"
+#  label = " Documentation"
+#  icon_pack = "fas"
+#  icon = "file"
+  
+[cta_alt]
+  url = "https://docs.caterpillarproject.org"
+  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
