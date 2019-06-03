@@ -13,20 +13,20 @@
   url = "#about"
   weight = 20
 
-[[main]]
-  name = "News"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "News"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "Docs"
   url = "https://docs.caterpillarproject.org/"
   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
 
 [[main]]
   name = "Contact"
