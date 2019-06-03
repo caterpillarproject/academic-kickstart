@@ -17,13 +17,10 @@ role:
 organizations:
 - name: MIT
   url: "https://space.mit.edu/"
-organizations:
 - name: MSU
   url: "https://astro.natsci.msu.edu/"
-organizations:
 - name: Universidad de La Serena
   url: "http://astro.userena.cl/doctorado/index_eng.html"
-organizations:
 - name: Carnegie Observatory
   url: "https://obs.carnegiescience.edu/"
 
