@@ -50,4 +50,4 @@ hero_media = ""
 
 **Understanding the building blocks of the Milky Way.**
 
-Access the data today.
+Start your analysis on the data today.
