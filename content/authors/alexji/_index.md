@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Hubble Fellow, Carnegie Observatory"
+role: "Carnegie Observatory"
 
 # Organizations/Affiliations
 
