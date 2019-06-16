@@ -20,8 +20,8 @@ hero_media = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   image = "landing.jpg"  # Name of image in `static/img/`.
@@ -35,11 +35,11 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 #[cta]
 #  url = "https://docs.caterpillarproject.org"
-#  label = " Documentation"
+#  label = " Access"
 #  icon_pack = "fas"
 #  icon = "file"
   
-# [cta_alt]
+# [cta]
 #   url = "https://docs.caterpillarproject.org"
 #   label = "View Documentation"
 
@@ -50,4 +50,7 @@ hero_media = ""
 
 **Understanding the building blocks of the Milky Way.**
 
-Start your analysis today.
+{{% alert note %}}
+Halo catalogs and merger trees of the project are now **public**. [Access today](https://docs.caterpillarproject.org/usage/access).
+{{% /alert %}}
+
